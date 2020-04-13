@@ -7,10 +7,10 @@
       "type": "git",
       "url": "https://github.com/tmcadam/Callback.git"
     },
-    "license": "GNU General Public License v3.0",
+    "license": "MIT License",
     "frameworks": "*",
     "platforms": "*",
     "build": {
-        "srcDir": "/"
+        "srcDir": ""
     }
   }
