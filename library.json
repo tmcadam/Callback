@@ -1,0 +1,16 @@
+{
+    "name": "Callback",
+    "keywords": "Callback signal slot",
+    "description": "Callback library",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/tmcadam/Callback.git"
+    },
+    "license": "GNU General Public License v3.0",
+    "frameworks": "*",
+    "platforms": "*",
+    "build": {
+        "srcDir": "/"
+    }
+  }
